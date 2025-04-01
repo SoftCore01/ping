@@ -1,0 +1,1 @@
+mobile -> a -> h1 -> form.flex(input -> button) -> footer(div.img -> copyright)
